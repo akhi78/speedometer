@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Bg-Container {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Main-heading {
+  color: white;
+  font-size: 80px;
+  margin-top: 50px;
+  font-style: italic;
+}
+
+.imageclass {
+  height: 400px;
+}
+
+.speed-limit-heading {
+  color: white;
+  padding-bottom: 20px;
+}
+
+.instruction {
+  color: white;
+  padding-bottom: 20px;
+}
+
+.btn-con {
+  padding-bottom: 40px;
+}
+
+.btn {
+  margin: 5px;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.accelarate {
+  background-color: #0b69ff;
+  color: #ffff;
+  border-style: none;
+}
+
+.break {
+  border-color: white;
+  background-color: black;
+  color: white;
+}
